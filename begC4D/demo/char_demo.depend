@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605999499 source:/Volumes/mac_ext_mem/prog/c_prog/begC4D/demo/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1606000544 source:/Volumes/mac_ext_mem/prog/c_prog/begC4D/demo/using_f_gets.c
+	<stdio.h>
+
