@@ -6,6 +6,7 @@ int areaOfRect(int length, int breadth)
 	area = length * breadth;
 	return area;
 }
+
 int main()
 {
 	int l = 10, b = 5;
